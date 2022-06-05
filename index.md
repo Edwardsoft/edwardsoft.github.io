@@ -1,4 +1,4 @@
-## 欢迎来到李巧巧的个人博客主页！
+## 欢迎来到Edwardsoft的个人博客主页！
 
 You can use the [editor on GitHub](https://github.com/Edwardsoft/qiaoqiao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
